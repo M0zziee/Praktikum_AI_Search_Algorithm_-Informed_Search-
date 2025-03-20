@@ -1,0 +1,1 @@
+# Praktikum_AI_Search_Algorithm_-Informed_Search-
